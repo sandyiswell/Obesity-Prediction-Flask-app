@@ -12,8 +12,10 @@ Preprocessing and modeling is done on Jupyter notebook.
 Model is saved using Pickle.
 Note that the model made for this project is a simple one, since the main objective is to learn Flask deployment.
 
-Step 3: Flask application deployment.
-Flask application is built using PyCharm environment.
+Step 3: Create a Conda environment with requirements.txt file.
+
+Step 4: Flask application deployment.
+Flask application is built using PyCharm. Deployment done locally.
 
 Sample UI:
 Homepage
